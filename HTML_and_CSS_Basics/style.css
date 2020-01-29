@@ -1,0 +1,35 @@
+p {
+    color:red;
+    text-transform: capitalize;
+    letter-spacing: normal;
+    word-spacing:normal;
+    line-height: 1.5;
+    text-align: center;
+    
+}
+h2 {
+    font-size: 1.5em;
+    background-color: #ccc;
+    margin: 20px;
+    padding: 40px;
+    border-style: dashed;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: red;
+}
+a{
+    color:blue;
+    text-decoration:line-through;
+}
+
+body {
+    font-size:14px;
+    color: #ffc;
+    background-color: #009;
+    font-family:arial, helvetica, serif;
+    font-weight:600;
+    font-style: italic;
+    text-decoration: overline;
+}
+

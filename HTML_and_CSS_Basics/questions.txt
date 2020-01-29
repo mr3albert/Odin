@@ -1,0 +1,24 @@
+Why do we separate HTML and CSS?
+    HTML is structuring the content and CSS is visually formatting that content.
+
+What are classes and IDs (and how are they different)?
+What are elements?
+    the bits that make up web pages. Things that are in tags. 
+What are tags?
+    Basicstructure of an HTML document includes tags, which surround content and apply meaning to it
+
+What are attributes?
+    extra bits of information about tags
+What are forms?
+What is a div?
+What are selectors?
+    Names given to styles in internal and external style sheets.
+What are properties?
+What are values?
+What is the “query string” in a URL and what does it do?
+What is the difference between “pixels” and “ems”?
+How do CSS styles for a particular element get inherited? i.e. how does an element get its “default” styles?
+What are two CSS attributes you can change to push an element around on the page?
+What are the three different ways to include CSS in your project or use CSS to style a particular element?
+What is the “default stylesheet” or “user agent stylesheet”?
+Why use a CSS reset file?
